@@ -20,3 +20,6 @@ void MasterCream(float value)
 }
 
 //btw health is a float in fivem
+/*
+if this *(float*)(CPed + 0x280) = value; dont work add a 0 in the health pointer i mean 0x280 to 0x0280
+*/
